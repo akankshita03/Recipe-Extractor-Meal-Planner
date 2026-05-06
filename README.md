@@ -1,2 +1,3 @@
 # Recipe-Extractor-Meal-Planner
 This project is a Recipe Extractor &amp; Meal Planner that takes a recipe URL and automatically extracts structured data like ingredients, steps, and nutrition using web scraping and AI logic. It provides a clean interface to view extracted recipes and stores them for future access in a history tab.
+This assignment builds a Recipe Extractor & Meal Planner using FastAPI and a simple frontend. It takes a recipe URL, scrapes the content, and converts it into structured data like ingredients, steps, nutrition, and substitutions using AI logic. The system also stores extracted recipes and displays them in a history view for easy access.
